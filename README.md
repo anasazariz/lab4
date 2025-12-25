@@ -1,6 +1,6 @@
 # Atelier 4 : Deep Learning - Modèles Génératifs (AE, VAE, GANs)
 
-**Université Abdelmalek Essaadi** **Faculté des Sciences et Techniques de Tanger** **Master :** MBD (Big Data)  
+**Université Abdelmalek Essaadi** **Faculté des Sciences et Techniques de Tanger** **Master :** SITBD (Securite IT et Big Data)  
 **Module :** Deep Learning  
 **Professeur :** Pr. ELAACHAK LOTFI  
 
